@@ -1,4 +1,4 @@
-# Omise Code Challenges
+# Tamboon donation application
 
 This repository contains small donation platform where user can donate the suitable amount of their choice.
 
