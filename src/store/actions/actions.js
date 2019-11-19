@@ -32,7 +32,7 @@ export const updateMessage = (message) => {
 export const handlePay = (id, amount, currency) => {
   debugger;
   return dispatch => {
-    const url = 'http://localhost:3001/payments'
+    const url = '/payments'
     const headers = {
       'Content-Type': 'application/json',
     };
